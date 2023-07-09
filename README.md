@@ -10,9 +10,11 @@ O objetivo deste projeto foi criar um site de notícias dedicado ao mundo da mú
 
 4. CRUD de Sugestão para o Site: Permite que os usuários enviem sugestões para melhorias ou novas funcionalidades no site em si. Eles podem fornecer ideias de design, recursos adicionais desejados ou qualquer outra sugestão para aprimorar a experiência dos usuários no site.
 
-Essas funcionalidades de CRUD adicionam interatividade e permitem que os usuários participem ativamente do desenvolvimento do site, compartilhando suas sugestões e contribuindo para o seu crescimento. Além disso, o site também oferece a possibilidade de listar todas as sugestões enviadas pelos usuários, proporcionando uma visão completa e organizada das sugestões recebidas.
+Essas funcionalidades de CRUD adicionam interatividade e permitem que os usuários participem ativamente do desenvolvimento do site, compartilhando suas sugestões e contribuindo para o seu crescimento. Além disso, o site também permite que os usuários editem e apaguem as sugestões enviadas, proporcionando um maior controle sobre o conteúdo sugerido.
 
 O projeto foi desenvolvido como parte da matéria de Programação Web do meu curso de ADS no 3º Semestre e é um exemplo prático do uso das tecnologias HTML, CSS e PHP para criar um site dinâmico e interativo.
+
+
 
 
 
