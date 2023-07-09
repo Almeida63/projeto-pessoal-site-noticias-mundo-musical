@@ -1,0 +1,166 @@
+.container{
+    margin:0 auto;
+    width: 960px;
+    box-shadow:0px 0px 0px 7px white;
+    background-color: white;
+}
+
+body{
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, 
+     sans-serif;
+     line-height: 1.6;
+     background-color: black;
+}
+
+div.linha{
+    display:table-row;
+    float:clear;
+}
+
+div#main > div > ul > li {
+    float: left;
+    display:table-cell;
+    list-style: none;
+}
+
+div#main > div > ul > li > img {width: 510px;}
+
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover 
+{
+    color: #0060B6;
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+.texto1{
+    position: absolute;
+    text-align: center;
+    top: 365px;
+    right: 1013px;
+    width: 370px;
+    line-height: 30px;
+    height: 30px;
+}
+
+.texto2{
+    position: absolute;
+    color:#fff;
+    text-align: center;
+    right: 460px;
+    bottom: 380px;
+    width: 370px;
+    line-height: 30px;
+    height: 30px;
+}
+
+
+.texto3{
+    position: absolute;
+    color:#fff;
+    text-align: center;
+    top: 655px;
+    right: 1013px;
+    width: 370px;
+    line-height: 30px;
+    height: 30px;
+}
+
+
+
+.texto4{
+    position: absolute;
+    color:#fff;
+    text-align: center;
+    right: 460px;
+    bottom: 40px;
+    width: 370px;
+    line-height: 30px;
+    height: 30px;
+}
+
+.texto5{
+    position: absolute;
+    color:#fff;
+    text-align: center;
+    top: 1025px;
+    right: 1013px;
+    width: 370px;
+    line-height: 30px;
+    height: 30px;
+}
+
+
+.texto6{
+    position: absolute;
+    color:#fff;
+    text-align: center;
+    right: 460px;
+    bottom: -300px;
+    width: 370px;
+    line-height: 30px;
+    height: 30px;
+}
+
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+nav{
+    background-color: white;
+    padding: 0 20px;
+    
+}
+
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    padding: 0 20px;
+}
+
+li:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+
+aside{
+    float:right;
+    width:18%;
+    background-color: white;
+}
+
+aside h5{
+    text-align: center;
+    color:white;
+    background-color: black;
+   
+}
+
+aside p{
+    line-height: 1.6;
+}
+
+footer{
+    height: 130px;
+    background-color: white;
+}
+
+footer p{
+    text-align: center;
+    color: black;
+}
+
+footer h4{
+    color: black;
+}
