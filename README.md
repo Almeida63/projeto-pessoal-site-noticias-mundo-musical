@@ -21,32 +21,32 @@ O projeto foi desenvolvido como parte da matéria de Programação Web do meu cu
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/73238816/252165154-ca3366f2-5450-46c5-884f-fe6dc9c3ec0a.jpg" width="900px" />
 </div>
-<p align="center">Tela Inicial</p>
+<p align="center">Tela Inicial.</p>
 
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/73238816/252165152-21bdd264-c509-4e77-b44f-8f33e4da4225.jpg" width="900px" />
 </div>
-<p align="center">Tela de notícia</p>
+<p align="center">Tela de notícia.</p>
 
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/73238816/252165170-742ab2f7-46d3-4edf-9d14-ed01b682a30c.jpg" width="900px" />
 </div>
-<p align="center">Tela de Lançamentos</p>
+<p align="center">Tela de Lançamentos.</p>
 
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/73238816/252165156-1b01fffc-e597-45ce-b836-c58cc657b6a8.jpg" width="900px" />
 </div>
-<p align="center">Tela de Sugestões</p>
+<p align="center">Tela de Sugestões.</p>
 
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/73238816/252165178-416b6b05-5b73-43b3-bc9d-1a50a38e91aa.png" width="900px" />
 </div>
-<p align="center">Tela de Envio de Sugestão</p>
+<p align="center">Tela de Envio de Sugestão.</p>
 
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/73238816/252165151-81136bc9-c453-4e59-afeb-b102ac2ad379.png" width="900px" />
 </div>
-<p align="center">Tela de Listagem de Sugestão</p>
+<p align="center">Tela de Listagem de Sugestão.</p>
 
 
 
